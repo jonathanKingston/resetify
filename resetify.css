@@ -58,11 +58,12 @@ colgroup,col,tbody,thead,tfoot,tr,td,th,
 
 /*
   Forms
+  Missing:
+  input,button,select,textarea
 */
-form,label,input,
-button,select,
+form,label,
 optgroup,option,
-textarea,keygen,output,
+keygen,output,
 progress,meter,
 fieldset,legend,
 
